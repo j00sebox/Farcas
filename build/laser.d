@@ -1,0 +1,1 @@
+laser.o: laser.s
